@@ -1,5 +1,6 @@
 # C-DSA
 ----
+[![wakatime](https://wakatime.com/badge/user/e8ce1a81-0a62-4ce5-bb06-c50d3f924814/project/b01b828c-a6f0-4540-a6ec-b1946dbdfa13.svg)](https://wakatime.com/badge/user/e8ce1a81-0a62-4ce5-bb06-c50d3f924814/project/b01b828c-a6f0-4540-a6ec-b1946dbdfa13)
 
 ## What is this?
 this repo is to show how DSA in C works.
